@@ -1,2 +1,3 @@
 target/
-~/Karate-dsl/Karate-DSL/.idea/
+/.idea/
+/Krate-DSL.iml
